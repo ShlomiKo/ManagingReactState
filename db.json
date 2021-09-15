@@ -69,6 +69,11 @@
       "city": "dfg",
       "country": "India",
       "id": 2
+    },
+    {
+      "city": "אשדוד",
+      "country": "India",
+      "id": 3
     }
   ]
 }
